@@ -1,5 +1,10 @@
+//using System.Configuration;
+
+using Company.Service;
+
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Configuration.Bind("Project", new Config());
 builder.Services.AddControllersWithViews();
 builder.Services.AddControllersWithViews().SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_3_0).AddSessionStateTempDataProvider();
 
