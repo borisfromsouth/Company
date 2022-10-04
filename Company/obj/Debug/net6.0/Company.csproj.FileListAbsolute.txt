@@ -266,4 +266,3 @@ D:\Asp_Projects\Company\Company\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.
 D:\Asp_Projects\Company\Company\obj\Debug\net6.0\Company.csproj.CopyComplete
 D:\Asp_Projects\Company\Company\bin\Debug\net6.0\appsettings.production.json
 D:\Asp_Projects\Company\Company\bin\Debug\net6.0\appsettings.staging.json
-D:\Asp_Projects\Company\Company\obj\Debug\net6.0\Company.csproj.AssemblyReference.cache

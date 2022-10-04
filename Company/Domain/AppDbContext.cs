@@ -16,14 +16,14 @@ namespace Company.Domain
         {
             base.OnModelCreating(modelBuilder);
 
-            modelBuilder.Entity<IdentityRole>().HasData(new IdentityRole
+            modelBuilder.Entity<IdentityRole>().HasData(new IdentityRole  // роль в системе
             {
                 Id = "8af10569-b018-4fe7-a380-7d6a14c70b74",
                 Name = "admin",
                 NormalizedName = "ADMIN"
             });
 
-            modelBuilder.Entity<IdentityUser>().HasData(new IdentityUser
+            modelBuilder.Entity<IdentityUser>().HasData(new IdentityUser  // пользователь в системе
             {
                 Id = "3b62472e-4f66-49fa-a20f-e7685b9565d8",
                 UserName = "admin",

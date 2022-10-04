@@ -39,8 +39,19 @@ builder.Services.ConfigureApplicationCookie(options =>
     options.SlidingExpiration = true;
 });
 
-//builder.Services.AddControllersWithViews();
-builder.Services.AddControllersWithViews().SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_3_0).AddSessionStateTempDataProvider();
+// настраиваем политику авторизации дл€ Admin area
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("AdminArea", policy => { policy.RequireRole("admin"); });
+});
+
+// добавл€ем сервисы дл€ контроллеров и представлений (MVC)                                                          // добавл€ем совместимость с asp.net core 3.0
+builder.Services.AddControllersWithViews(x =>
+{
+    x.Conventions.Add(new AdminAreaAuthorization("Admin", "AdminArea"));
+})
+  .SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_3_0).AddSessionStateTempDataProvider();
+
 
 var app = builder.Build();
 
@@ -61,8 +72,7 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 // регистраци€ нужнгых маршрутов (end-points)
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+app.MapControllerRoute( name: "admin", pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
+app.MapControllerRoute( name: "default", pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

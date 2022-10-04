@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/Iw09D8Mo4SxY0BaONjHI8yeewVKJHZ4QtBsmeoOUZg=",
+  "Hash": "f7tX/YmezlBw8gW6ujy6QsH34dMeo276lIk++VH4Gqs=",
   "Source": "Company",
   "BasePath": "_content/Company",
   "Mode": "Default",
@@ -629,23 +629,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\da.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\de-ch.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/lang/de-ch.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\de-ch.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\de.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -663,6 +646,23 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\de.js"
     },
     {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\de-ch.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/lang/de-ch.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\de-ch.js"
+    },
+    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\el.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -678,6 +678,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\el.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\en.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/lang/en.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\en.js"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\en-au.js",
@@ -731,23 +748,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\en-gb.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\en.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/lang/en.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\en.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\eo.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -765,23 +765,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\eo.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\es-mx.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/lang/es-mx.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\es-mx.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\es.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -797,6 +780,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\es.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\es-mx.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/lang/es-mx.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\es-mx.js"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\et.js",
@@ -884,23 +884,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\fo.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\fr-ca.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/lang/fr-ca.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\fr-ca.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\fr.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -916,6 +899,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\fr.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\fr-ca.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/lang/fr-ca.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\fr-ca.js"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\gl.js",
@@ -1326,23 +1326,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\pl.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\pt-br.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/lang/pt-br.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\pt-br.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\pt.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -1358,6 +1341,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\pt.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\pt-br.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/lang/pt-br.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\pt-br.js"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\ro.js",
@@ -1462,23 +1462,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\sq.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\sr-latn.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/lang/sr-latn.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\sr-latn.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\sr.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -1494,6 +1477,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\sr.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\sr-latn.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/lang/sr-latn.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\sr-latn.js"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\sv.js",
@@ -1615,23 +1615,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\vi.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\zh-cn.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/lang/zh-cn.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\zh-cn.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\zh.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -1647,6 +1630,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\zh.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\lang\\zh-cn.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/lang/zh-cn.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\lang\\zh-cn.js"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\LICENSE.md",
@@ -1836,23 +1836,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -1870,6 +1853,23 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js"
     },
     {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js"
+    },
+    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -1885,6 +1885,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/plugins/a11yhelp/dialogs/lang/en.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js",
@@ -1921,23 +1938,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/plugins/a11yhelp/dialogs/lang/en.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -1955,23 +1955,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/plugins/a11yhelp/dialogs/lang/es-mx.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -1987,6 +1970,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/plugins/a11yhelp/dialogs/lang/es-mx.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js",
@@ -2074,23 +2074,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -2106,6 +2089,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js",
@@ -2465,23 +2465,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -2497,6 +2480,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js",
@@ -2601,23 +2601,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -2633,6 +2616,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js",
@@ -2754,23 +2754,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -2786,6 +2769,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\about\\dialogs\\about.js",
@@ -2890,23 +2890,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\dialog\\styles\\dialog.css"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\icons_hidpi.png",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/plugins/icons_hidpi.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\icons_hidpi.png"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\icons.png",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -2922,6 +2905,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\icons.png"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\icons_hidpi.png",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/plugins/icons_hidpi.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\icons_hidpi.png"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\image\\dialogs\\image.js",
@@ -3026,23 +3026,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/plugins/magicline/images/hidpi/icon-rtl.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -3060,12 +3043,12 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png",
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png",
       "SourceId": "Company",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
       "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/plugins/magicline/images/icon-rtl.png",
+      "RelativePath": "js/ckeditor/plugins/magicline/images/hidpi/icon-rtl.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3074,7 +3057,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png"
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\magicline\\images\\icon.png",
@@ -3092,6 +3075,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\magicline\\images\\icon.png"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/plugins/magicline/images/icon-rtl.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js",
@@ -3451,23 +3451,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -3485,6 +3468,23 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js"
     },
     {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js"
+    },
+    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -3500,6 +3500,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/plugins/specialchar/dialogs/lang/en.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js",
@@ -3553,23 +3570,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/plugins/specialchar/dialogs/lang/en.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -3587,23 +3587,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/plugins/specialchar/dialogs/lang/es-mx.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -3619,6 +3602,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/plugins/specialchar/dialogs/lang/es-mx.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js",
@@ -3689,23 +3689,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -3721,6 +3704,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js",
@@ -4012,23 +4012,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -4044,6 +4027,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js",
@@ -4148,23 +4148,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/plugins/specialchar/dialogs/lang/sr-latn.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -4180,6 +4163,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/plugins/specialchar/dialogs/lang/sr-latn.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js",
@@ -4301,23 +4301,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -4333,6 +4316,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js",
@@ -4998,23 +4998,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\samples\\old\\replacebycode.html"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\samples\\old\\sample_posteddata.php",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/samples/old/sample_posteddata.php",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\samples\\old\\sample_posteddata.php"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\samples\\old\\sample.css",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -5047,6 +5030,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\samples\\old\\sample.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\samples\\old\\sample_posteddata.php",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/samples/old/sample_posteddata.php",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\samples\\old\\sample_posteddata.php"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\samples\\old\\tabindex.html",
@@ -5491,6 +5491,23 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\SECURITY.md"
     },
     {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\skins\\moono-lisa\\dialog.css",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/skins/moono-lisa/dialog.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\skins\\moono-lisa\\dialog.css"
+    },
+    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\skins\\moono-lisa\\dialog_ie.css",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -5542,12 +5559,12 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\skins\\moono-lisa\\dialog.css",
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\skins\\moono-lisa\\editor.css",
       "SourceId": "Company",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
       "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/skins/moono-lisa/dialog.css",
+      "RelativePath": "js/ckeditor/skins/moono-lisa/editor.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5556,7 +5573,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\skins\\moono-lisa\\dialog.css"
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\skins\\moono-lisa\\editor.css"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\skins\\moono-lisa\\editor_gecko.css",
@@ -5627,12 +5644,12 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\skins\\moono-lisa\\editor.css",
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\skins\\moono-lisa\\icons.png",
       "SourceId": "Company",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
       "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/skins/moono-lisa/editor.css",
+      "RelativePath": "js/ckeditor/skins/moono-lisa/icons.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5641,7 +5658,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\skins\\moono-lisa\\editor.css"
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\skins\\moono-lisa\\icons.png"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png",
@@ -5659,23 +5676,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png"
-    },
-    {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\skins\\moono-lisa\\icons.png",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/skins/moono-lisa/icons.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\skins\\moono-lisa\\icons.png"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\skins\\moono-lisa\\images\\arrow.png",
@@ -5729,23 +5729,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/skins/moono-lisa/images/hidpi/lock-open.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -5761,6 +5744,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/skins/moono-lisa/images/hidpi/lock-open.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png",
@@ -5780,23 +5780,6 @@
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "js/ckeditor/skins/moono-lisa/images/lock-open.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\skins\\moono-lisa\\images\\lock.png",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -5812,6 +5795,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ckeditor\\skins\\moono-lisa\\images\\lock.png"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/ckeditor/skins/moono-lisa/images/lock-open.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\js\\ckeditor\\skins\\moono-lisa\\images\\refresh.png",
@@ -5982,6 +5982,142 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\util.js"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -6392,142 +6528,6 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
@@ -6749,12 +6749,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
       "BasePath": "_content/Company",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6763,15 +6763,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
       "BasePath": "_content/Company",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6780,15 +6780,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Company",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
       "BasePath": "_content/Company",
-      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6797,7 +6797,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "lib/jquery/LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
@@ -6885,12 +6902,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
       "BasePath": "_content/Company",
-      "RelativePath": "lib/jquery/dist/jquery.js",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6899,15 +6916,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Company",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
       "BasePath": "_content/Company",
-      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6916,15 +6933,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Company",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
       "BasePath": "_content/Company",
-      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6933,24 +6950,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "Company",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\",
-      "BasePath": "_content/Company",
-      "RelativePath": "lib/jquery/LICENSE.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
       "Identity": "D:\\Asp_Projects\\Company\\Company\\wwwroot\\sass\\libs\\_breakpoints.scss",

@@ -15,8 +15,6 @@
     <Folder Include="Models\ViewComponents\" />
     <Folder Include="wwwroot\images\" />
     <Folder Include="wwwroot\sass\" />
-    <Folder Include="Areas\" />
-    <Folder Include="Admin\" />
   </ItemGroup>
 
   <ItemGroup>
