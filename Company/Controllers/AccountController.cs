@@ -17,6 +17,7 @@ namespace Company.Controllers
             this.userManager = userManager;
         }
 
+        [Authorize]
         [AllowAnonymous]
         public IActionResult Login(string returnUrl)
         {
@@ -42,7 +43,7 @@ namespace Company.Controllers
                 }
                 ModelState.AddModelError(nameof(LoginViewModel.UserName), "Неверный логин или пароль");
             }
-            return View(model);
+            return View(model); // если пользователь не нашелся возращаем форму на "исправление"
         }
 
         [Authorize]

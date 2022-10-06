@@ -7,16 +7,14 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// подключаем конфиг из appsetting.json
-builder.Configuration.Bind("Project", new Config());
+builder.Configuration.Bind("Project", new Config());  // подключаем конфиг из appsetting.json
 
 // подключаем нужный функционал приложения в качестве сервисов
 builder.Services.AddTransient<ITextFieldsRepository, EFTextFieldsRepository>();  // привяхзка интерфейса к реализации
 builder.Services.AddTransient<IServiceItemsRepository, EFServiceItemsRepository>();
 builder.Services.AddTransient<DataManager>();
 
-// подключаем корнтекст БД
-builder.Services.AddDbContext<AppDbContext>(x => x.UseSqlServer(Config.ConnectionString));
+builder.Services.AddDbContext<AppDbContext>(x => x.UseSqlServer(Config.ConnectionString));  // подключаем корнтекст БД
 
 // настраиваем identity систему 
 builder.Services.AddIdentity<IdentityUser, IdentityRole> (opts =>  // требования для входа
@@ -34,45 +32,39 @@ builder.Services.ConfigureApplicationCookie(options =>
 {
     options.Cookie.Name = "myCompanyAuth";
     options.Cookie.HttpOnly = true;
-    options.LoginPath = "/account/login";
+    options.LoginPath = "/account/login";  // путь для залогина пользователя
     options.AccessDeniedPath = "/account/accessdenied";
     options.SlidingExpiration = true;
 });
 
 // настраиваем политику авторизации для Admin area
-builder.Services.AddAuthorization(options =>
+builder.Services.AddAuthorization(x =>
 {
-    options.AddPolicy("AdminArea", policy => { policy.RequireRole("admin"); });
+    x.AddPolicy("AdminArea", policy => { policy.RequireRole("admin"); }); // добавляем политику и требуем от пользователя роль "admin"
 });
 
-// добавляем сервисы для контроллеров и представлений (MVC)                                                          // добавляем совместимость с asp.net core 3.0
+// добавляем сервисы для контроллеров и представлений (MVC)
 builder.Services.AddControllersWithViews(x =>
 {
-    x.Conventions.Add(new AdminAreaAuthorization("Admin", "AdminArea"));
+    x.Conventions.Add(new AdminAreaAuthorization("Admin", "AdminArea"));  // Admin - область, AdminArea - политика которая будет действовать для этой области (для )
 })
   .SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_3_0).AddSessionStateTempDataProvider();
 
-
 var app = builder.Build();
-
 if (!app.Environment.IsDevelopment())
-{
+{ 
     app.UseDeveloperExceptionPage();
 }
 
-// подключение поддержки статичееских файлов в приложении (css, js и тд)
-app.UseStaticFiles();
-
-// подключении системы маршрутизации
-app.UseRouting();
+app.UseStaticFiles();  // подключение поддержки статичееских файлов в приложении (css, js и тд)
+app.UseRouting();  // подключении системы маршрутизации
 
 // подключение аутентификацию и авторизациию
 app.UseCookiePolicy();
 app.UseAuthentication();
 app.UseAuthorization();
 
-// регистрация нужнгых маршрутов (end-points)
-app.MapControllerRoute( name: "admin", pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
+app.MapControllerRoute( name: "admin", pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");  // регистрация нужных маршрутов (end-points)
 app.MapControllerRoute( name: "default", pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

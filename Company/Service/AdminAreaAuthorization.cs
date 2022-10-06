@@ -17,10 +17,10 @@ namespace Company.Service
 
         public void Apply(ControllerModel controller)
         {
-            if (controller.Attributes.Any(a => a is AreaAttribute && (a as AreaAttribute).RouteValue.Equals(area,StringComparison.OrdinalIgnoreCase))
-                || controller.RouteValues.Any(r => r.Key.Equals("area", StringComparison.OrdinalIgnoreCase) && r.Value.Equals("area", StringComparison.OrdinalIgnoreCase)))
+            if (controller.Attributes.Any(a => a is AreaAttribute && (a as AreaAttribute).RouteValue.Equals(area, StringComparison.OrdinalIgnoreCase))
+                || controller.RouteValues.Any(r => r.Key.Equals("area", StringComparison.OrdinalIgnoreCase) && r.Value.Equals(area, StringComparison.OrdinalIgnoreCase)))
             {
-                controller.Filters.Add(new AuthorizeFilter(policy));
+                controller.Filters.Add(new AuthorizeFilter(policy));  // отправка на авторизацию
             }
         }
     }
