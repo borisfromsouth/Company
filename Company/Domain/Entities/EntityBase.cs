@@ -25,6 +25,9 @@ namespace Company.Domain.Entities
         public string Metatitle { get; set; } = "";
 
         [Display(Name = "SEO метатег Description")]
+        public string MetaDescription { get; set; } = "";
+
+        [Display(Name = "SEO метатег Description")]
         public string MetaKeywords { get; set; } = "";
 
         [DataType(DataType.Time)]

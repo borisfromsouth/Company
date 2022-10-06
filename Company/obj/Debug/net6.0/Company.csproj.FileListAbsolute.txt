@@ -266,3 +266,4 @@ D:\Asp_Projects\Company\Company\obj\Debug\net6.0\Company.dll
 D:\Asp_Projects\Company\Company\obj\Debug\net6.0\ref\Company.dll
 D:\Asp_Projects\Company\Company\obj\Debug\net6.0\Company.pdb
 D:\Asp_Projects\Company\Company\obj\Debug\net6.0\Company.genruntimeconfig.cache
+D:\Asp_Projects\Company\Company\obj\Debug\net6.0\Company.csproj.AssemblyReference.cache

@@ -1629,3 +1629,6 @@ ul.link-list li:first-child {
 .div-box label {
   display: block;
 }
+.div-box a {
+  display: block;
+}
